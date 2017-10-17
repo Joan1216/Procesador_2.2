@@ -1,0 +1,6 @@
+[Inputs]
+Reset
+Clk
+[Outputs]
+=Salida_Procesador_2[31:0]=
+[BiDir]
